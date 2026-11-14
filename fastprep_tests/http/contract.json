@@ -1,0 +1,5 @@
+{
+  "protocolVersion": 1,
+  "kind": "http-blackbox-v1",
+  "expectedTestCount": 3
+}
